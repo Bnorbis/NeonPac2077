@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/744de55b-d8cf-421d-9fd7-8866efce7a22)🎮 Neon Pac 2077 🎮 
+🎮 Neon Pac 2077 🎮 
 - Projeto desenvolvido para a disciplina Design de Jogos, ministrada pelo professor Nardi.
 
 - O objetivo era criar um jogo em primeira pessoa, inspirado no clássico Pac-Man, com os seguintes requisitos principais:
@@ -52,10 +52,12 @@
   ![image](https://github.com/user-attachments/assets/dc45a164-ae72-40af-a595-2d65a07f403c)
 
 
-
 => Créditos
-- Assets 3D:
+- Assets 3D: 
 - Dark City2 - Cyberpunk Pack (Free Download)
+- https://youtu.be/mFcFRvMcXRw?feature=shared
+- https://unityassetcollection.com/dark-city2-cyberpunk-pack-free-download/?utm_source=chatgpt.com
+- https://unityassets4free.com/dark-city2-cyberpunk-pack/?utm_source=chatgpt.com
 
 => Trilha sonora:
 
