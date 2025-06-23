@@ -1,5 +1,6 @@
 🎮 Neon Pac 2077 🎮 
 - Projeto desenvolvido para a disciplina Design de Jogos, ministrada pelo professor Nardi.
+- Infelizmente o projeto excede o limite de GB do github e está disponível apenas no drive, caso queira visualizar o jogo sinta-se livre para entrar em contato e solicitar a url. 
 
 - O objetivo era criar um jogo em primeira pessoa, inspirado no clássico Pac-Man, com os seguintes requisitos principais:
 
